@@ -1,6 +1,6 @@
-# Student Manager (Python)
+   # Students Manager (Python)
 
-A simple student management system built with Python.
+A simple students management system built with Python.
 
 ## Features:
 - Add student
@@ -26,3 +26,4 @@ python students_manager.py
  
 ## Author:
 Nasrullah Parsa  
+ 
